@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BẢO%20MẬT%20THÔNG%20TIN%20&%20SỨC%20KHỎE%20SỐ&fontSize=40&fontAlignY=38&desc=Nền%20Tảng%20Công%20Nghệ%20Số&descAlignY=60&descAlign=50" />
 </p>
 
-<h1 align="center">🛡️ BÀI THỰC HÀNH 07: BẢO MẬT THÔNG TIN VÀ SỨC KHỎE SỐ</h1>
+<h1 align="center">🛡️ BÀI THỰC HÀNH 09: BẢO MẬT THÔNG TIN VÀ SỨC KHỎE SỐ</h1>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Course-Nền_Tảng_Công_Nghệ_Số-blue?style=for-the-badge&logo=google-scholar" alt="Course"></a>
