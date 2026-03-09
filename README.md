@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Khám+phá+rủi+ro+an+ninh+số;Tự+rèn+kỹ+năng+bảo+mật;Nhận+diện+lừa+đảo+&+nguy+cơ+online;Quản+lý+sức+khỏe+số" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Khám+phá+rủi+ro+an+ninh+số;Tự+rèn+kỹ+năng+bảo+mật;Nhận+diện+lừa+đảo+và+nguy+cơ+online;Quản+lý+sức+khỏe+số" alt="Typing Animation" />
 </p>
 
 ---
@@ -20,11 +20,11 @@
 
 - **Học phần:** Nền tảng công nghệ số
 - **Giảng viên hướng dẫn:** Nguyễn Minh Trung
-- [cite_start]**Đối tượng:** Sinh viên năm nhất ngành CNTT 
-- [cite_start]**Mục tiêu tổng quát:** - Hiểu khái niệm, rủi ro và nguyên tắc cơ bản về bảo mật thông tin cá nhân[cite: 3].
-  - [cite_start]Nhận biết nguy cơ mất an toàn khi sử dụng Internet, mạng xã hội[cite: 4].
-  - [cite_start]Biết cách tự bảo vệ sức khỏe số (digital well-being)[cite: 5].
-  - [cite_start]Thực hành các kỹ năng an toàn số cơ bản[cite: 6].
+- **Đối tượng:** Sinh viên năm nhất ngành CNTT
+- **Mục tiêu tổng quát:** - Hiểu khái niệm, rủi ro và nguyên tắc cơ bản về bảo mật thông tin cá nhân.
+  - Nhận biết nguy cơ mất an toàn khi sử dụng Internet, mạng xã hội.
+  - Biết cách tự bảo vệ sức khỏe số (digital well-being).
+  - Thực hành các kỹ năng an toàn số cơ bản.
 
 ## 👥 Danh Sách Thành Viên Nhóm 4
 
@@ -39,26 +39,26 @@
 
 ## 🎯 Nội Dung Thực Hành (5 Tiết)
 
-[cite_start]Dưới đây là tổng hợp các nhiệm vụ và sản phẩm thực hành của nhóm trong Bài 07[cite: 1]:
+Dưới đây là tổng hợp các nhiệm vụ và sản phẩm thực hành của nhóm trong Bài 07:
 
-### [cite_start]🔍 Tiết 1: Tự khám phá rủi ro an ninh số [cite: 7]
-- [cite_start]**Nhiệm vụ:** Làm khảo sát nhanh về thói quen bảo mật [cite: 9][cite_start]; liệt kê 5 rủi ro an ninh thông tin [cite: 10][cite_start]; vẽ sơ đồ tư duy (A3/online) và trình bày 3 phút[cite: 11].
+### 🔍 Tiết 1: Tự khám phá rủi ro an ninh số
+- **Nhiệm vụ:** Làm khảo sát nhanh về thói quen bảo mật; liệt kê 5 rủi ro an ninh thông tin; vẽ sơ đồ tư duy (A3/online) và trình bày 3 phút.
 
-### [cite_start]🔐 Tiết 2: Tự rèn kỹ năng bảo mật tài khoản [cite: 13]
-- [cite_start]**Nhiệm vụ:** Kiểm tra mật khẩu hiện tại[cite: 15]; [cite_start]đưa ra “công thức mật khẩu mạnh” [cite: 16][cite_start]; thực hành bật xác thực 2 bước (2FA)[cite: 17].
-- [cite_start]**Sản phẩm:** Checklist “Quy tắc bảo mật tài khoản”[cite: 18].
+### 🔐 Tiết 2: Tự rèn kỹ năng bảo mật tài khoản
+- **Nhiệm vụ:** Kiểm tra mật khẩu hiện tại; đưa ra “công thức mật khẩu mạnh”; thực hành bật xác thực 2 bước (2FA).
+- **Sản phẩm:** Checklist “Quy tắc bảo mật tài khoản”.
 
-### [cite_start]🕵️ Tiết 3: Thực hành nhận diện lừa đảo & nguy cơ online [cite: 19]
-- [cite_start]**Nhiệm vụ:** Phân loại 5 email mẫu (thật/giả) [cite: 21][cite_start]; thi "Ai nhanh hơn" tìm dấu hiệu phishing [cite: 22][cite_start]; kiểm tra link bằng VirusTotal / Google Safe Browsing[cite: 23].
-- [cite_start]**Sản phẩm:** Báo cáo ngắn: “5 dấu hiệu nhận biết email/website lừa đảo”[cite: 24].
+### 🕵️ Tiết 3: Thực hành nhận diện lừa đảo & nguy cơ online
+- **Nhiệm vụ:** Phân loại 5 email mẫu (thật/giả); thi "Ai nhanh hơn" tìm dấu hiệu phishing; kiểm tra link bằng VirusTotal / Google Safe Browsing.
+- **Sản phẩm:** Báo cáo ngắn: “5 dấu hiệu nhận biết email/website lừa đảo”.
 
-### [cite_start]🧘 Tiết 4: Tự quản lý sức khỏe số [cite: 25]
-- [cite_start]**Nhiệm vụ:** Kiểm tra Screen Time/Digital Wellbeing [cite: 27][cite_start]; viết nhật ký 1 ngày online/offline[cite: 28]; [cite_start]đề xuất giải pháp “Digital Detox”[cite: 29].
-- [cite_start]**Sản phẩm:** Poster/infographic “Sống lành mạnh trong kỷ nguyên số” + nhật ký cá nhân[cite: 30, 31].
+### 🧘 Tiết 4: Tự quản lý sức khỏe số
+- **Nhiệm vụ:** Kiểm tra Screen Time/Digital Wellbeing; viết nhật ký 1 ngày online/offline; đề xuất giải pháp “Digital Detox”.
+- **Sản phẩm:** Poster/infographic “Sống lành mạnh trong kỷ nguyên số” + nhật ký cá nhân.
 
-### [cite_start]🎭 Tiết 5: Dự án tình huống & phản biện [cite: 32]
-- [cite_start]**Nhiệm vụ:** Nhận tình huống rủi ro (hack, lộ ảnh, phishing, nghiện game)[cite: 34]; [cite_start]đóng vai/diễn kịch và đưa giải pháp [cite: 35][cite_start]; tham gia phản biện[cite: 36].
-- [cite_start]**Sản phẩm:** Video/clip ngắn hoặc kịch bản tình huống + phần phản biện[cite: 37].
+### 🎭 Tiết 5: Dự án tình huống & phản biện
+- **Nhiệm vụ:** Nhận tình huống rủi ro (hack, lộ ảnh, phishing, nghiện game); đóng vai/diễn kịch và đưa giải pháp; tham gia phản biện.
+- **Sản phẩm:** Video/clip ngắn hoặc kịch bản tình huống + phần phản biện.
 
 ---
 
